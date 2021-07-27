@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.nav a{
+  color:white ;
+  text-decoration: none;
+  margin: 1em;
+}
+div.stocks a{
+  color: black;
+  text-decoration: none;
+}
